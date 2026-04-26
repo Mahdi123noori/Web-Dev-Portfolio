@@ -212,3 +212,60 @@ main {
     color: #757575;
     text-align: left;
 }
+
+/* Resume Styles */
+
+.resume-content {
+    display: flex;
+    gap: 24px;
+    /* margin-top: 50px; */
+}
+
+.resume-title {
+    font-weight: bold;
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+
+.resume-items {
+    width: 510px;
+    height: 175px;
+    margin-bottom: 30px;
+
+}
+
+.resume-heading {
+    font-weight: bold;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 0px;
+
+}
+
+.resume-sub-heading {
+    font-weight: semi-bold;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.resume-description {
+    font-weight: normal;
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 30px;
+
+}
+
+.resume hr {
+    margin: 30px 0px 30px 0px;
+    border: none;
+    border-top: 1px solid #D1D1D1;
+}
+
+.resume-btn {
+    text-align: center;
+    margin: 50px 0px 113px 0px;
+}
